@@ -29317,7 +29317,7 @@
                 "https://github.com/PD19Anime/ComfyUI-PD19Anime-Nodes"
             ],
             "install_type": "git-clone",
-            "description": "A powerful suite of nodes for ComfyUI to dynamically load prompts and images. This pack is especially focused on   batch processing from a directory and includes two main nodes: Advanced Prompt & Image Loader (Multiple) and   Advanced Prompt & Image Loader (single)."
+            "description": "A powerful ComfyUI node suite featuring the Advanced Prompt & Image Loader (Multiple) node, designed for batch extracting and saving image prompts. Automatically reads prompt information from multiple images and passes it to other nodes for processing, plus includes other workflow utility nodes."
         }
     ]
 }
